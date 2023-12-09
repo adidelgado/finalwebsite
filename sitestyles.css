@@ -1,0 +1,60 @@
+@charset "UTF-8";
+.container {
+    width: 100%;
+}
+.imagediv {
+    display: block;
+    width: 100%;
+}
+.nav {
+    width: 20%;
+    float: left;
+    color: #FFFFFF;
+    font-family: "Impact Label Reversed";
+    font-size: x-large;
+    text-decoration: none;
+    text-align: center;
+    background-color: #000000;
+    text-shadow: 0px 0px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.textdiv {
+    font-family: "Impact Label Reversed";
+    font-size: large;
+    color: #001C01;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+}
+.headerdiv {
+    font-family: "Impact Label Reversed";
+    text-align: center;
+    width: 40%;
+    font-weight: bolder;
+    padding-top: 60px;
+    text-decoration: none;
+    font-size: xx-large;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.footer {
+    font-family: "Impact Label Reversed";
+    font-size: medium;
+    color: #000000;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.headersmall {
+    font-family: "Impact Label Reversed";
+    display: block;
+    width: 40%;
+    font-size: x-large;
+}
